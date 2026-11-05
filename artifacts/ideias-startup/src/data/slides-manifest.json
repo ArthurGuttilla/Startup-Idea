@@ -64,8 +64,24 @@
     "speakerNotes": ""
   },
   {
-    "id": "f01f7917-94cc-49b5-9c3e-4898308b764c",
+    "id": "a0a623f8-6020-48aa-893d-19119aded15d",
     "position": 9,
+    "filepath": "src/pages/slides/EffectuationMeans.tsx",
+    "title": "Effectuation: comece com os meios disponíveis",
+    "description": "Effectuation: comece com os meios disponíveis",
+    "speakerNotes": ""
+  },
+  {
+    "id": "7b915a63-4256-4e97-b792-3213af2efbc0",
+    "position": 10,
+    "filepath": "src/pages/slides/EffectuationAction.tsx",
+    "title": "Effectuation: quatro princípios para avançar",
+    "description": "Effectuation: quatro princípios para avançar",
+    "speakerNotes": ""
+  },
+  {
+    "id": "f01f7917-94cc-49b5-9c3e-4898308b764c",
+    "position": 11,
     "filepath": "src/pages/slides/Slide9.tsx",
     "title": "Exercício: registre três problemas reais",
     "description": "Exercício: registre três problemas reais",
@@ -73,7 +89,7 @@
   },
   {
     "id": "6d3dcef1-2c4d-4db7-8b24-4c4a5d47fffe",
-    "position": 10,
+    "position": 12,
     "filepath": "src/pages/slides/Slide10.tsx",
     "title": "Escolha uma dor que você consegue investigar",
     "description": "Escolha uma dor que você consegue investigar",
@@ -81,7 +97,7 @@
   },
   {
     "id": "19cfe6c1-2d65-42dd-a8c3-75aecd8d2cc9",
-    "position": 11,
+    "position": 13,
     "filepath": "src/pages/slides/Slide11.tsx",
     "title": "Troque a ideia vaga por uma situação concreta",
     "description": "Troque a ideia vaga por uma situação concreta",
@@ -89,7 +105,7 @@
   },
   {
     "id": "bb886d6a-7d78-4373-b41b-01041bdec544",
-    "position": 12,
+    "position": 14,
     "filepath": "src/pages/slides/Slide12.tsx",
     "title": "Antes do MVP, escreva a hipótese",
     "description": "Antes do MVP, escreva a hipótese",
@@ -97,7 +113,7 @@
   },
   {
     "id": "af1ee30d-4c18-4828-9e66-e30f51263beb",
-    "position": 13,
+    "position": 15,
     "filepath": "src/pages/slides/Slide13.tsx",
     "title": "MVP é um teste, não uma lista de funcionalidades",
     "description": "MVP é um teste, não uma lista de funcionalidades",
@@ -105,7 +121,7 @@
   },
   {
     "id": "6bca673f-4e61-4539-8435-1621bf4f4adf",
-    "position": 14,
+    "position": 16,
     "filepath": "src/pages/slides/Slide14.tsx",
     "title": "Construir com IA não exige vender IA",
     "description": "Construir com IA não exige vender IA",
@@ -113,7 +129,7 @@
   },
   {
     "id": "9f1ecded-2efb-4a40-9d0c-ebb8f5f72d34",
-    "position": 15,
+    "position": 17,
     "filepath": "src/pages/slides/Slide15.tsx",
     "title": "O recorte da demonstração",
     "description": "O recorte da demonstração",
@@ -121,7 +137,7 @@
   },
   {
     "id": "51763348-f1fb-4ec3-9b1e-b071f70395f9",
-    "position": 16,
+    "position": 18,
     "filepath": "src/pages/slides/Slide16.tsx",
     "title": "Dê contexto à IA, não apenas uma ordem",
     "description": "Dê contexto à IA, não apenas uma ordem",
@@ -129,7 +145,7 @@
   },
   {
     "id": "7a2939c3-8902-4015-b9ac-41c7340e7916",
-    "position": 17,
+    "position": 19,
     "filepath": "src/pages/slides/Slide17.tsx",
     "title": "Construa o menor fluxo completo",
     "description": "Construa o menor fluxo completo",
@@ -137,7 +153,7 @@
   },
   {
     "id": "f3945b14-988a-4cc7-bd9d-2250969b6fed",
-    "position": 18,
+    "position": 20,
     "filepath": "src/pages/slides/Slide18.tsx",
     "title": "Teste os casos que quebram a promessa",
     "description": "Teste os casos que quebram a promessa",
@@ -145,7 +161,7 @@
   },
   {
     "id": "10beccdd-77b7-49ec-bd48-fa4babc7cf98",
-    "position": 19,
+    "position": 21,
     "filepath": "src/pages/slides/Slide19.tsx",
     "title": "Elogio não é evidência suficiente",
     "description": "Elogio não é evidência suficiente",
@@ -153,7 +169,7 @@
   },
   {
     "id": "97b90db1-233b-4c32-a872-3de0c268a5f8",
-    "position": 20,
+    "position": 22,
     "filepath": "src/pages/slides/Slide20.tsx",
     "title": "Decida o que aprender antes de adicionar funcionalidades",
     "description": "Decida o que aprender antes de adicionar funcionalidades",
@@ -161,7 +177,7 @@
   },
   {
     "id": "d6282916-f0c3-40ee-a993-e9ed1fab6759",
-    "position": 21,
+    "position": 23,
     "filepath": "src/pages/slides/Slide21.tsx",
     "title": "Seu plano para os próximos sete dias",
     "description": "Seu plano para os próximos sete dias",
@@ -169,7 +185,7 @@
   },
   {
     "id": "1363b860-391c-4c0a-8680-7d7b09152855",
-    "position": 22,
+    "position": 24,
     "filepath": "src/pages/slides/Slide22.tsx",
     "title": "Qual problema você vai investigar primeiro?",
     "description": "Qual problema você vai investigar primeiro?",
