@@ -1,0 +1,1 @@
+- [Apresentação para a Replit](presentation.md) — palestra de uma hora baseada em Paul Graham; separar conceitos do ensaio da aplicação de IA.

@@ -1,0 +1,178 @@
+[
+  {
+    "id": "befdd2d5-f121-4974-ade6-ba48e4bb21a9",
+    "position": 1,
+    "filepath": "src/pages/slides/Slide1.tsx",
+    "title": "Como ter ideias para sua startup - MVP com IA",
+    "description": "Como ter ideias para sua startup - MVP com IA",
+    "speakerNotes": ""
+  },
+  {
+    "id": "ea4e7288-e38d-47df-80c4-6ccd73fdcb17",
+    "position": 2,
+    "filepath": "src/pages/slides/Slide2.tsx",
+    "title": "Se construir ficou mais fácil, o que vale a pena construir?",
+    "description": "Se construir ficou mais fácil, o que vale a pena construir?",
+    "speakerNotes": ""
+  },
+  {
+    "id": "54cbb72f-5416-40a4-8efc-f79e3534427b",
+    "position": 3,
+    "filepath": "src/pages/slides/Slide3.tsx",
+    "title": "Não comece pela ideia. Comece pelo problema.",
+    "description": "Não comece pela ideia. Comece pelo problema.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "c431e812-15ec-4830-8f65-5575641072dd",
+    "position": 4,
+    "filepath": "src/pages/slides/Slide4.tsx",
+    "title": "Três características das melhores ideias",
+    "description": "Três características das melhores ideias",
+    "speakerNotes": ""
+  },
+  {
+    "id": "1d942d27-de4f-4940-adab-a1315c9943f9",
+    "position": 5,
+    "filepath": "src/pages/slides/Slide5.tsx",
+    "title": "Poucos usuários com muita necessidade",
+    "description": "Poucos usuários com muita necessidade",
+    "speakerNotes": ""
+  },
+  {
+    "id": "aa41d4a7-be0d-4a20-ab9a-e5dcf7646f28",
+    "position": 6,
+    "filepath": "src/pages/slides/Slide6.tsx",
+    "title": "Viva no futuro. Perceba o que falta.",
+    "description": "Viva no futuro. Perceba o que falta.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "497ff132-6372-4fd8-8192-e3feba47b118",
+    "position": 7,
+    "filepath": "src/pages/slides/Slide7.tsx",
+    "title": "As oportunidades que seus filtros escondem",
+    "description": "As oportunidades que seus filtros escondem",
+    "speakerNotes": ""
+  },
+  {
+    "id": "c30273b8-fd31-4950-9c2f-23000afe5ac0",
+    "position": 8,
+    "filepath": "src/pages/slides/Slide8.tsx",
+    "title": "Concorrência não encerra a investigação",
+    "description": "Concorrência não encerra a investigação",
+    "speakerNotes": ""
+  },
+  {
+    "id": "f01f7917-94cc-49b5-9c3e-4898308b764c",
+    "position": 9,
+    "filepath": "src/pages/slides/Slide9.tsx",
+    "title": "Exercício: registre três problemas reais",
+    "description": "Exercício: registre três problemas reais",
+    "speakerNotes": ""
+  },
+  {
+    "id": "6d3dcef1-2c4d-4db7-8b24-4c4a5d47fffe",
+    "position": 10,
+    "filepath": "src/pages/slides/Slide10.tsx",
+    "title": "Escolha uma dor que você consegue investigar",
+    "description": "Escolha uma dor que você consegue investigar",
+    "speakerNotes": ""
+  },
+  {
+    "id": "19cfe6c1-2d65-42dd-a8c3-75aecd8d2cc9",
+    "position": 11,
+    "filepath": "src/pages/slides/Slide11.tsx",
+    "title": "Troque a ideia vaga por uma situação concreta",
+    "description": "Troque a ideia vaga por uma situação concreta",
+    "speakerNotes": ""
+  },
+  {
+    "id": "bb886d6a-7d78-4373-b41b-01041bdec544",
+    "position": 12,
+    "filepath": "src/pages/slides/Slide12.tsx",
+    "title": "Antes do MVP, escreva a hipótese",
+    "description": "Antes do MVP, escreva a hipótese",
+    "speakerNotes": ""
+  },
+  {
+    "id": "af1ee30d-4c18-4828-9e66-e30f51263beb",
+    "position": 13,
+    "filepath": "src/pages/slides/Slide13.tsx",
+    "title": "MVP é um teste, não uma lista de funcionalidades",
+    "description": "MVP é um teste, não uma lista de funcionalidades",
+    "speakerNotes": ""
+  },
+  {
+    "id": "6bca673f-4e61-4539-8435-1621bf4f4adf",
+    "position": 14,
+    "filepath": "src/pages/slides/Slide14.tsx",
+    "title": "Construir com IA não exige vender IA",
+    "description": "Construir com IA não exige vender IA",
+    "speakerNotes": ""
+  },
+  {
+    "id": "9f1ecded-2efb-4a40-9d0c-ebb8f5f72d34",
+    "position": 15,
+    "filepath": "src/pages/slides/Slide15.tsx",
+    "title": "O recorte da demonstração",
+    "description": "O recorte da demonstração",
+    "speakerNotes": ""
+  },
+  {
+    "id": "51763348-f1fb-4ec3-9b1e-b071f70395f9",
+    "position": 16,
+    "filepath": "src/pages/slides/Slide16.tsx",
+    "title": "Dê contexto à IA, não apenas uma ordem",
+    "description": "Dê contexto à IA, não apenas uma ordem",
+    "speakerNotes": ""
+  },
+  {
+    "id": "7a2939c3-8902-4015-b9ac-41c7340e7916",
+    "position": 17,
+    "filepath": "src/pages/slides/Slide17.tsx",
+    "title": "Construa o menor fluxo completo",
+    "description": "Construa o menor fluxo completo",
+    "speakerNotes": ""
+  },
+  {
+    "id": "f3945b14-988a-4cc7-bd9d-2250969b6fed",
+    "position": 18,
+    "filepath": "src/pages/slides/Slide18.tsx",
+    "title": "Teste os casos que quebram a promessa",
+    "description": "Teste os casos que quebram a promessa",
+    "speakerNotes": ""
+  },
+  {
+    "id": "10beccdd-77b7-49ec-bd48-fa4babc7cf98",
+    "position": 19,
+    "filepath": "src/pages/slides/Slide19.tsx",
+    "title": "Elogio não é evidência suficiente",
+    "description": "Elogio não é evidência suficiente",
+    "speakerNotes": ""
+  },
+  {
+    "id": "97b90db1-233b-4c32-a872-3de0c268a5f8",
+    "position": 20,
+    "filepath": "src/pages/slides/Slide20.tsx",
+    "title": "Decida o que aprender antes de adicionar funcionalidades",
+    "description": "Decida o que aprender antes de adicionar funcionalidades",
+    "speakerNotes": ""
+  },
+  {
+    "id": "d6282916-f0c3-40ee-a993-e9ed1fab6759",
+    "position": 21,
+    "filepath": "src/pages/slides/Slide21.tsx",
+    "title": "Seu plano para os próximos sete dias",
+    "description": "Seu plano para os próximos sete dias",
+    "speakerNotes": ""
+  },
+  {
+    "id": "1363b860-391c-4c0a-8680-7d7b09152855",
+    "position": 22,
+    "filepath": "src/pages/slides/Slide22.tsx",
+    "title": "Qual problema você vai investigar primeiro?",
+    "description": "Qual problema você vai investigar primeiro?",
+    "speakerNotes": ""
+  }
+]

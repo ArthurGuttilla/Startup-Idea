@@ -1,0 +1,28 @@
+kind = "slides"
+previewPath = "/"
+title = "Como ter ideias para sua startup - MVP com IA"
+description = "Apresentação de uma hora com 22 slides baseada em Paul Graham, com exercício de descoberta de problemas e roteiro de demonstração de MVP com IA, na identidade visual da Replit."
+version = "1.0.0"
+id = "artifacts/ideias-startup"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18238
+
+[services.development]
+run = "pnpm --filter @workspace/ideias-startup run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/ideias-startup", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/ideias-startup/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18238"
+BASE_PATH = "/"
