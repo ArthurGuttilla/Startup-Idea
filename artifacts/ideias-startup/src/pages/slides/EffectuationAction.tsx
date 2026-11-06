@@ -12,7 +12,7 @@ export default function EffectuationAction() {
         <p><strong>Piloto no avião:</strong> concentre-se no que pode fazer e cocriar</p>
       </div>
       <div className="footnote">
-        Saras Sarasvathy · <a className="underline" href="https://effectuation.org/the-five-principles-of-effectuation" target="_blank" rel="noopener noreferrer">effectuation.org</a> · 2 min
+        Saras Sarasvathy · <a className="underline" href="https://effectuation.org/the-five-principles-of-effectuation" target="_blank" rel="noopener noreferrer">effectuation.org</a>
       </div>
     </div>
   );

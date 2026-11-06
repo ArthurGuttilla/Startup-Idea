@@ -20,7 +20,7 @@ export default function EffectuationMeans() {
         <p>Os objetivos podem evoluir conforme surgem ações e compromissos</p>
       </div>
       <div className="footnote">
-        Pássaro na mão · Saras Sarasvathy · <a className="underline" href="https://effectuation.org/the-five-principles-of-effectuation" target="_blank" rel="noopener noreferrer">effectuation.org</a> · 2 min
+        Pássaro na mão · Saras Sarasvathy · <a className="underline" href="https://effectuation.org/the-five-principles-of-effectuation" target="_blank" rel="noopener noreferrer">effectuation.org</a>
       </div>
     </div>
   );
