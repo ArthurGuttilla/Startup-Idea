@@ -14,4 +14,4 @@ html,body,#root{width:100%;height:100%;margin:0}body{background:var(--slide-bg);
 .cards{display:grid;grid-template-columns:repeat(4,1fr);gap:1.6vw}.cards p{background:var(--slide-primary);color:var(--slide-bg);padding:3vw 1.6vw;min-height:28vh;font-size:2.3vw}
 .prompt{display:grid;gap:2.5vh;background:var(--slide-accent);padding:3vh 3vw}.prompt p{font-size:2.1vw}.prompt-slide h1{max-width:82vw}.steps{display:grid;grid-template-columns:repeat(4,1fr);gap:2.4vw}.steps .step-number{font-size:6vw}.steps-slide h1{max-width:80vw}
 .closing-title{font-size:5vw!important;max-width:85vw!important}.closing-questions{display:grid;gap:2vh;margin-top:4vh;padding:3vh 3vw;background:var(--slide-primary);color:var(--slide-bg)}.closing-questions p{font-size:2.5vw}.sources{display:grid;gap:1vh;margin-top:4vh}.sources p{font-size:1.5vw;color:#56504d}
-.footnote{display:none}
+.footnote{display:none}.footnote.source-note{display:block}
