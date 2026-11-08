@@ -10,7 +10,7 @@ export default function NubankHypothesis() {
         <p>Hoje, a pessoa usa <strong>um cartão de banco tradicional</strong>.</p>
         <p>Vamos testar se <strong>um cartão sem anuidade, controlado pelo app</strong>, melhora <strong>a autonomia</strong>.</p>
       </div>
-      <div className="footnote source-note">Formulação didática, não oficial · Fonte: <a className="underline" href="https://blog.nubank.com.br/como-fazer-um-cartao-de-credito" target="_blank" rel="noopener noreferrer">Blog Nubank</a></div>
+      <div className="footnote source-note">Fonte: <a className="underline" href="https://blog.nubank.com.br/como-fazer-um-cartao-de-credito" target="_blank" rel="noopener noreferrer">Blog Nubank</a></div>
     </div>
   );
 }
