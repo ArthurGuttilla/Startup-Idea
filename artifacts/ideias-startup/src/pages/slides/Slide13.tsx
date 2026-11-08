@@ -2,6 +2,6 @@ const base = import.meta.env.BASE_URL;
 export default function Slide13() { return (
 <div className="w-screen h-screen overflow-hidden relative deck-slide cards-slide">
 <header><img src={`${base}brand/logo.svg`} crossOrigin="anonymous" alt="Replit" /><span className="section-label">4 · MVP com IA</span></header>
-<h1>MVP é um teste, não uma lista de funcionalidades</h1><div className="content cards"><p className="">Um público inicial</p><p className="">Um problema prioritário</p><p className="">Um fluxo completo e limitado</p><p className="">Uma evidência que orienta a próxima decisão</p></div><div className="footnote">Aplicação prática</div>
+<h1>MVP é um teste, não uma lista de funcionalidades</h1><div className="content cards"><p className=""><span className="icon" style={{ WebkitMaskImage: `url(${base}images/icons/users.svg)`, maskImage: `url(${base}images/icons/users.svg)` }} />Um público inicial</p><p className=""><span className="icon" style={{ WebkitMaskImage: `url(${base}images/icons/target.svg)`, maskImage: `url(${base}images/icons/target.svg)` }} />Um problema prioritário</p><p className=""><span className="icon" style={{ WebkitMaskImage: `url(${base}images/icons/route.svg)`, maskImage: `url(${base}images/icons/route.svg)` }} />Um fluxo completo e limitado</p><p className=""><span className="icon" style={{ WebkitMaskImage: `url(${base}images/icons/chart-line.svg)`, maskImage: `url(${base}images/icons/chart-line.svg)` }} />Uma evidência que orienta a próxima decisão</p></div><div className="footnote">Aplicação prática</div>
 </div>
 ); }
