@@ -81,3 +81,8 @@ html,body,#root{width:100%;height:100%;margin:0}body{background:var(--slide-bg);
 .quote-source{font-size:1.4vw;color:var(--slide-muted)}
 .flow-questions{margin-top:5vh;background:var(--slide-accent);padding:2.8vh 2.4vw;display:grid;grid-template-columns:1fr 1fr;gap:4vw}
 .deck-slide .flow-questions p{font-size:2.3vw;font-weight:500}
+.cards-ex{display:grid;grid-template-columns:repeat(4,1fr);gap:1.6vw}
+.card-ex{background:var(--slide-primary);color:var(--slide-bg);padding:2.6vw 1.8vw;min-height:34vh;display:flex;flex-direction:column;gap:2.4vh}
+.deck-slide .card-ex .compare-label{line-height:1.25}
+.deck-slide .card-ex p{font-size:2.2vw;line-height:1.25}
+.deck-slide .card-ex .compare-label{min-height:2.5em}

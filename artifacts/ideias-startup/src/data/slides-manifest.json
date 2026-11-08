@@ -120,8 +120,16 @@
 		"speakerNotes": ""
 	},
 	{
-		"id": "6bca673f-4e61-4539-8435-1621bf4f4adf",
+		"id": "2b7a1a84-2bc1-4fcd-9fb3-def4cb0f37dc",
 		"position": 16,
+		"filepath": "src/pages/slides/NubankMvp.tsx",
+		"title": "O MVP aplicado ao caso Nubank",
+		"description": "Os quatro requisitos do MVP preenchidos com o caso Nubank",
+		"speakerNotes": ""
+	},
+	{
+		"id": "6bca673f-4e61-4539-8435-1621bf4f4adf",
+		"position": 17,
 		"filepath": "src/pages/slides/Slide14.tsx",
 		"title": "Construir com IA não exige vender IA",
 		"description": "Construir com IA não exige vender IA",
@@ -129,7 +137,7 @@
 	},
 	{
 		"id": "9f1ecded-2efb-4a40-9d0c-ebb8f5f72d34",
-		"position": 17,
+		"position": 18,
 		"filepath": "src/pages/slides/Slide15.tsx",
 		"title": "O recorte da demonstração",
 		"description": "Recorte da demonstração: controlar o cartão pelo app, no caso Nubank",
@@ -137,7 +145,7 @@
 	},
 	{
 		"id": "51763348-f1fb-4ec3-9b1e-b071f70395f9",
-		"position": 18,
+		"position": 19,
 		"filepath": "src/pages/slides/Slide16.tsx",
 		"title": "Dê contexto à IA, não apenas uma ordem",
 		"description": "Dê contexto à IA, não apenas uma ordem",
@@ -145,7 +153,7 @@
 	},
 	{
 		"id": "7a2939c3-8902-4015-b9ac-41c7340e7916",
-		"position": 19,
+		"position": 20,
 		"filepath": "src/pages/slides/Slide17.tsx",
 		"title": "Construa o menor fluxo completo",
 		"description": "Construa o menor fluxo completo",
@@ -153,7 +161,7 @@
 	},
 	{
 		"id": "f3945b14-988a-4cc7-bd9d-2250969b6fed",
-		"position": 20,
+		"position": 21,
 		"filepath": "src/pages/slides/Slide18.tsx",
 		"title": "Teste os casos que quebram a promessa",
 		"description": "Teste os casos que quebram a promessa",
@@ -161,7 +169,7 @@
 	},
 	{
 		"id": "10beccdd-77b7-49ec-bd48-fa4babc7cf98",
-		"position": 21,
+		"position": 22,
 		"filepath": "src/pages/slides/Slide19.tsx",
 		"title": "Elogio não é evidência suficiente",
 		"description": "Elogio não é evidência suficiente",
@@ -169,7 +177,7 @@
 	},
 	{
 		"id": "97b90db1-233b-4c32-a872-3de0c268a5f8",
-		"position": 22,
+		"position": 23,
 		"filepath": "src/pages/slides/Slide20.tsx",
 		"title": "Decida o que aprender antes de adicionar funcionalidades",
 		"description": "Decida o que aprender antes de adicionar funcionalidades",
@@ -177,7 +185,7 @@
 	},
 	{
 		"id": "d6282916-f0c3-40ee-a993-e9ed1fab6759",
-		"position": 23,
+		"position": 24,
 		"filepath": "src/pages/slides/Slide21.tsx",
 		"title": "Seu plano para os próximos sete dias",
 		"description": "Seu plano para os próximos sete dias",
@@ -185,7 +193,7 @@
 	},
 	{
 		"id": "1363b860-391c-4c0a-8680-7d7b09152855",
-		"position": 24,
+		"position": 25,
 		"filepath": "src/pages/slides/Slide22.tsx",
 		"title": "Qual problema você vai investigar primeiro?",
 		"description": "Qual problema você vai investigar primeiro?",
