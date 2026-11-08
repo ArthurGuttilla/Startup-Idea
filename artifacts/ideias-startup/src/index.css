@@ -86,3 +86,10 @@ html,body,#root{width:100%;height:100%;margin:0}body{background:var(--slide-bg);
 .deck-slide .card-ex .compare-label{line-height:1.25}
 .deck-slide .card-ex p{font-size:2.2vw;line-height:1.25}
 .deck-slide .card-ex .compare-label{min-height:2.5em}
+.prd-layout{display:grid;grid-template-columns:1.25fr 1fr;gap:4vw;margin-top:5vh;align-items:start}
+.prd-doc{margin:0;background:var(--slide-text);color:var(--slide-bg);padding:3.2vh 2.4vw;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:1.45vw;line-height:1.4;white-space:pre-wrap}
+.prd-doc .md-h{color:var(--slide-accent);font-weight:700}
+.prd-notes{display:grid;gap:3.4vh}
+.deck-slide .prd-notes p{font-size:2.3vw;padding-top:2.4vh;border-top:.15vw solid var(--slide-primary)}
+.prd-layout{margin-top:4vh}
+.prd-doc{font-size:1.3vw;line-height:1.32;padding:2.6vh 2.2vw}
