@@ -20,6 +20,13 @@ export default function Presenter() {
           <p>Fundou a <strong>Tropicalia</strong>, startup de infraestrutura de IA adquirida pela Strattum AI em 2026.</p>
           <p>É professor de IA na <strong>Link School of Business</strong> desde 2022, investidor anjo e mentor de startups.</p>
         </div>
+        <a className="site-cta" href="https://guttil.la/" target="_blank" rel="noopener noreferrer">
+          <img src={`${base}images/qr-guttilla.svg`} crossOrigin="anonymous" alt="QR Code para guttil.la" />
+          <span className="site-cta-copy">
+            <span className="compare-label">Conheça meu trabalho</span>
+            <span className="site-cta-url">guttil.la →</span>
+          </span>
+        </a>
       </div>
     </div>
   );
