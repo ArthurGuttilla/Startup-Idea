@@ -16,9 +16,9 @@ export default function Presenter() {
         <h1>Arthur Guttilla</h1>
         <p className="!text-[2.3vw] text-primary">Head of Product Marketing na Strattum AI</p>
         <div className="grid gap-[2.2vh] border-t-[0.15vw] border-primary pt-[3vh] [&_p]:!text-[1.9vw]">
-          <p>Passou pela AWS e pelo Google, atuando junto a startups e fundos de venture capital.</p>
-          <p>Fundou a Tropicalia, startup de infraestrutura de IA adquirida pela Strattum AI em 2026.</p>
-          <p>É professor de IA na Link School of Business desde 2022, investidor anjo e mentor de startups.</p>
+          <p>Passou pela <strong>AWS</strong> e pelo <strong>Google</strong>, atuando junto a startups e fundos de venture capital.</p>
+          <p>Fundou a <strong>Tropicalia</strong>, startup de infraestrutura de IA adquirida pela Strattum AI em 2026.</p>
+          <p>É professor de IA na <strong>Link School of Business</strong> desde 2022, investidor anjo e mentor de startups.</p>
         </div>
       </div>
     </div>
