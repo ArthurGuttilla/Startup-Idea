@@ -4,12 +4,12 @@ export default function CaseMvp() {
   return (
     <div className="w-screen h-screen overflow-hidden relative deck-slide cards-slide">
       <header><img src={`${base}brand/logo.svg`} crossOrigin="anonymous" alt="Replit" /><span className="section-label">4 · MVP com IA</span></header>
-      <h1 className="title-with-logo">O MVP aplicado ao caso iFood<img className="title-logo" src={`${base}images/logos/ifood.svg`} crossOrigin="anonymous" alt="iFood" /></h1>
+      <h1 className="title-with-logo">O MVP aplicado ao caso<img className="title-logo" src={`${base}images/logos/ifood.svg`} crossOrigin="anonymous" alt="iFood" /></h1>
       <div className="content cards-ex">
-        <div className="card-ex"><span className="icon" style={{ WebkitMaskImage: `url(${base}images/icons/users.svg)`, maskImage: `url(${base}images/icons/users.svg)` }} /><span className="compare-label">Público inicial</span><p>Quem pede comida em casa em São Paulo</p></div>
-        <div className="card-ex"><span className="icon" style={{ WebkitMaskImage: `url(${base}images/icons/target.svg)`, maskImage: `url(${base}images/icons/target.svg)` }} /><span className="compare-label">Problema prioritário</span><p>Descobrir quem entrega e como pedir</p></div>
-        <div className="card-ex"><span className="icon" style={{ WebkitMaskImage: `url(${base}images/icons/route.svg)`, maskImage: `url(${base}images/icons/route.svg)` }} /><span className="compare-label">Fluxo completo e limitado</span><p>Ver cardápios, escolher e pedir por telefone</p></div>
-        <div className="card-ex"><span className="icon" style={{ WebkitMaskImage: `url(${base}images/icons/chart-line.svg)`, maskImage: `url(${base}images/icons/chart-line.svg)` }} /><span className="compare-label">Evidência</span><p>Pedidos chegando aos restaurantes do guia</p></div>
+        <div className="card-ex"><span className="icon" style={{ WebkitMaskImage: `url(${base}images/icons/users.svg)`, maskImage: `url(${base}images/icons/users.svg)` }} /><p>Quem pede comida em casa em São Paulo</p></div>
+        <div className="card-ex"><span className="icon" style={{ WebkitMaskImage: `url(${base}images/icons/target.svg)`, maskImage: `url(${base}images/icons/target.svg)` }} /><p>Descobrir quem entrega e como pedir</p></div>
+        <div className="card-ex"><span className="icon" style={{ WebkitMaskImage: `url(${base}images/icons/route.svg)`, maskImage: `url(${base}images/icons/route.svg)` }} /><p>Ver cardápios, escolher e pedir por telefone</p></div>
+        <div className="card-ex"><span className="icon" style={{ WebkitMaskImage: `url(${base}images/icons/chart-line.svg)`, maskImage: `url(${base}images/icons/chart-line.svg)` }} /><p>Pedidos chegando aos restaurantes do guia</p></div>
       </div>
       <div className="case-ref"><span className="case-ref-head"><img className="ref-logo" src={`${base}images/logos/doordash.svg`} crossOrigin="anonymous" alt="DoorDash" /><span className="compare-label">Mesma lógica, em 2013</span></span><p>Uma página com cardápios em PDF, um telefone e os próprios fundadores entregando. O primeiro pedido chegou em poucas horas.</p></div>
     </div>
