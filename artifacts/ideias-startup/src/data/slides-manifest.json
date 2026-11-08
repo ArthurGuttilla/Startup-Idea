@@ -106,9 +106,9 @@
 	{
 		"id": "9426d402-660e-4e6b-a30c-2e0c6246082b",
 		"position": 14,
-		"filepath": "src/pages/slides/NubankHypothesis.tsx",
-		"title": "A hipótese aplicada ao caso Nubank",
-		"description": "Modelo de hipótese preenchido como leitura didática do caso Nubank, não como formulação oficial",
+		"filepath": "src/pages/slides/CaseHypothesis.tsx",
+		"title": "A hipótese aplicada ao caso iFood",
+		"description": "Modelo de hipótese preenchido com o Disk Cook, origem do iFood, em leitura didática",
 		"speakerNotes": ""
 	},
 	{
@@ -122,9 +122,9 @@
 	{
 		"id": "2b7a1a84-2bc1-4fcd-9fb3-def4cb0f37dc",
 		"position": 16,
-		"filepath": "src/pages/slides/NubankMvp.tsx",
-		"title": "O MVP aplicado ao caso Nubank",
-		"description": "Os quatro requisitos do MVP preenchidos com o caso Nubank",
+		"filepath": "src/pages/slides/CaseMvp.tsx",
+		"title": "O MVP aplicado ao caso iFood",
+		"description": "Os quatro requisitos do MVP preenchidos com o caso iFood, com o DoorDash como referência",
 		"speakerNotes": ""
 	},
 	{
@@ -140,7 +140,7 @@
 		"position": 18,
 		"filepath": "src/pages/slides/Slide15.tsx",
 		"title": "O recorte da demonstração",
-		"description": "Recorte da demonstração: controlar o cartão pelo app, no caso Nubank",
+		"description": "Recorte da demonstração: guia digital de cardápios do bairro, no caso iFood",
 		"speakerNotes": ""
 	},
 	{
@@ -156,7 +156,7 @@
 		"position": 20,
 		"filepath": "src/pages/slides/MarkdownPrd.tsx",
 		"title": "Peça um PRD em Markdown",
-		"description": "Exemplo de PRD em Markdown do caso Nubank, com ordem de prioridade, escopo e aparência",
+		"description": "Exemplo de PRD em Markdown do caso iFood, com ordem de prioridade, escopo e aparência",
 		"speakerNotes": ""
 	},
 	{

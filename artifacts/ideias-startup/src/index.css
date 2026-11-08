@@ -93,3 +93,6 @@ html,body,#root{width:100%;height:100%;margin:0}body{background:var(--slide-bg);
 .deck-slide .prd-notes p{font-size:2.3vw;padding-top:2.4vh;border-top:.15vw solid var(--slide-primary)}
 .prd-layout{margin-top:4vh}
 .prd-doc{font-size:1.3vw;line-height:1.32;padding:2.6vh 2.2vw}
+.case-ref{margin-top:4vh;display:grid;gap:1.2vh;padding-left:2vw;border-left:.4vw solid var(--slide-primary)}
+.deck-slide .case-ref p{font-size:2.1vw}
+.cards-ex .card-ex{min-height:28vh}
