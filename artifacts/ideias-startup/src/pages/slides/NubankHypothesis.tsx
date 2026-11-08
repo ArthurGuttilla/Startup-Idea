@@ -3,7 +3,7 @@ const base = import.meta.env.BASE_URL;
 export default function NubankHypothesis() {
   return (
     <div className="w-screen h-screen overflow-hidden relative deck-slide formula-slide">
-      <header><img src={`${base}brand/logo.svg`} crossOrigin="anonymous" alt="Replit" /></header>
+      <header><img src={`${base}brand/logo.svg`} crossOrigin="anonymous" alt="Replit" /><span className="section-label">3 · Hipótese</span></header>
       <h1>A hipótese aplicada ao caso Nubank</h1>
       <div className="content formula">
         <p>Para <strong>clientes de cartão</strong>, quando <strong>gerenciam seus gastos</strong>, existe <strong>burocracia e pouca autonomia</strong>.</p>

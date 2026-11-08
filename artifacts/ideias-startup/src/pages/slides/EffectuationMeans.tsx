@@ -3,7 +3,7 @@ const base = import.meta.env.BASE_URL;
 export default function EffectuationMeans() {
   return (
     <div className="w-screen h-screen overflow-hidden relative deck-slide">
-      <header><img src={`${base}brand/logo.svg`} crossOrigin="anonymous" alt="Replit" /></header>
+      <header><img src={`${base}brand/logo.svg`} crossOrigin="anonymous" alt="Replit" /><span className="section-label">1 · Ideias</span></header>
       <h1>Effectuation: comece com o que você tem</h1>
       <div className="mt-[5vh] grid grid-cols-3 gap-[4vw]">
         <div className="border-t-[0.15vw] border-primary pt-[2.4vh]">
