@@ -218,3 +218,7 @@ html,body,#root{width:100%;height:100%;margin:0}body{background:var(--slide-bg);
 .slide-plan .steps-5 .step{border-top:.15vw solid var(--slide-primary);padding-top:3vh}
 .slide-plan .steps.steps-5 .step-number{font-size:7vw;margin-bottom:4vh}
 .deck-slide .slide-plan .steps-5 .step p,.slide-plan .steps-5 .step p{font-size:2.4vw;line-height:1.25}
+.slide-questions{display:flex;flex-direction:column}
+.big-q{margin-top:auto;margin-bottom:auto;padding-bottom:4vh;display:grid;grid-template-columns:1fr 1fr;gap:2.4vw}
+.deck-slide .big-q p{display:flex;flex-direction:column;align-items:flex-start;gap:4vh;background:var(--slide-accent);padding:5vh 3vw;min-height:40vh;font-size:3.4vw;line-height:1.15;font-weight:500;letter-spacing:-.01em}
+.big-q .q-mark{width:6vw;height:6vw;font-size:3.6vw}
