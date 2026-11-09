@@ -48,8 +48,16 @@
 		"speakerNotes": ""
 	},
 	{
-		"id": "a0a623f8-6020-48aa-893d-19119aded15d",
+		"id": "a9d12dfe-b53e-4b0d-ad07-c2a4fb575f93",
 		"position": 7,
+		"filepath": "src/pages/slides/CustomerQuotes.tsx",
+		"title": "Olhe para a necessidade, não para o pedido",
+		"description": "Jeff Bezos sobre o que os clientes sempre vão querer e a frase atribuída a Henry Ford sobre cavalos mais rápidos",
+		"speakerNotes": ""
+	},
+	{
+		"id": "a0a623f8-6020-48aa-893d-19119aded15d",
+		"position": 8,
 		"filepath": "src/pages/slides/EffectuationMeans.tsx",
 		"title": "Effectuation: comece com o que você tem",
 		"description": "Effectuation: comece com o que você tem",
@@ -57,7 +65,7 @@
 	},
 	{
 		"id": "0339f45b-1ecb-4658-9aa2-85c37e50609a",
-		"position": 8,
+		"position": 9,
 		"filepath": "src/pages/slides/Section2.tsx",
 		"title": "2 · Problema",
 		"description": "Abertura do bloco 2 · Problema",
@@ -65,18 +73,10 @@
 	},
 	{
 		"id": "8c178aa3-983c-41e7-8260-64ef5251da02",
-		"position": 9,
+		"position": 10,
 		"filepath": "src/pages/slides/CaseIntro.tsx",
 		"title": "O caso que vamos seguir: iFood",
 		"description": "Apresenta o caso iFood: do guia impresso Disk Cook ao app",
-		"speakerNotes": ""
-	},
-	{
-		"id": "f01f7917-94cc-49b5-9c3e-4898308b764c",
-		"position": 10,
-		"filepath": "src/pages/slides/Slide9.tsx",
-		"title": "Exercício: registre três problemas reais",
-		"description": "Exercício: registre três problemas reais",
 		"speakerNotes": ""
 	},
 	{
@@ -88,19 +88,19 @@
 		"speakerNotes": ""
 	},
 	{
-		"id": "19cfe6c1-2d65-42dd-a8c3-75aecd8d2cc9",
+		"id": "f01f7917-94cc-49b5-9c3e-4898308b764c",
 		"position": 12,
-		"filepath": "src/pages/slides/Slide11.tsx",
-		"title": "Troque a ideia vaga por uma situação concreta",
-		"description": "Troque a ideia vaga por uma situação concreta",
+		"filepath": "src/pages/slides/Slide9.tsx",
+		"title": "Exercício: registre três problemas reais",
+		"description": "Exercício: registre três problemas reais",
 		"speakerNotes": ""
 	},
 	{
-		"id": "a9d12dfe-b53e-4b0d-ad07-c2a4fb575f93",
+		"id": "19cfe6c1-2d65-42dd-a8c3-75aecd8d2cc9",
 		"position": 13,
-		"filepath": "src/pages/slides/CustomerQuotes.tsx",
-		"title": "Olhe para a necessidade, não para o pedido",
-		"description": "Jeff Bezos sobre o que os clientes sempre vão querer e a frase atribuída a Henry Ford sobre cavalos mais rápidos",
+		"filepath": "src/pages/slides/Slide11.tsx",
+		"title": "Troque a ideia vaga por uma situação concreta",
+		"description": "Troque a ideia vaga por uma situação concreta",
 		"speakerNotes": ""
 	},
 	{
@@ -160,16 +160,8 @@
 		"speakerNotes": ""
 	},
 	{
-		"id": "6bca673f-4e61-4539-8435-1621bf4f4adf",
-		"position": 21,
-		"filepath": "src/pages/slides/Slide14.tsx",
-		"title": "Construir com IA não exige vender IA",
-		"description": "Construir com IA não exige vender IA",
-		"speakerNotes": ""
-	},
-	{
 		"id": "9f1ecded-2efb-4a40-9d0c-ebb8f5f72d34",
-		"position": 22,
+		"position": 21,
 		"filepath": "src/pages/slides/Slide15.tsx",
 		"title": "O recorte da demonstração",
 		"description": "Recorte da demonstração: guia digital de cardápios do bairro, no caso iFood",
@@ -177,7 +169,7 @@
 	},
 	{
 		"id": "a445596e-fa77-4c25-a1c1-2c6bd4b03eb2",
-		"position": 23,
+		"position": 22,
 		"filepath": "src/pages/slides/OrderMockup.tsx",
 		"title": "O menor fluxo que vamos construir",
 		"description": "Mockup da página de pedidos com os passos do fluxo numerados",
@@ -185,7 +177,7 @@
 	},
 	{
 		"id": "d1a90648-1b6c-419f-9b05-ddfa1ca5f4a5",
-		"position": 24,
+		"position": 23,
 		"filepath": "src/pages/slides/PrdIntro.tsx",
 		"title": "PRD e Markdown, em uma frase cada",
 		"description": "Introdução rápida ao que é um PRD e ao formato Markdown",
@@ -193,7 +185,7 @@
 	},
 	{
 		"id": "51763348-f1fb-4ec3-9b1e-b071f70395f9",
-		"position": 25,
+		"position": 24,
 		"filepath": "src/pages/slides/Slide16.tsx",
 		"title": "Dê contexto à IA, não apenas uma ordem",
 		"description": "Dê contexto à IA, não apenas uma ordem",
@@ -201,23 +193,15 @@
 	},
 	{
 		"id": "3b955764-45a6-46e3-8c6f-5aa7afbb881f",
-		"position": 26,
+		"position": 25,
 		"filepath": "src/pages/slides/MarkdownPrd.tsx",
 		"title": "Revise o PRD antes de construir",
 		"description": "Exemplo de PRD em Markdown do caso iFood, com ordem de prioridade, escopo e aparência",
 		"speakerNotes": ""
 	},
 	{
-		"id": "f3945b14-988a-4cc7-bd9d-2250969b6fed",
-		"position": 27,
-		"filepath": "src/pages/slides/Slide18.tsx",
-		"title": "Teste os casos que quebram a promessa",
-		"description": "Teste os casos que quebram a promessa",
-		"speakerNotes": ""
-	},
-	{
 		"id": "dcf56094-5f4c-4ab0-a339-3d3832875a4e",
-		"position": 28,
+		"position": 26,
 		"filepath": "src/pages/slides/Section5.tsx",
 		"title": "5 · Validação",
 		"description": "Abertura do bloco 5 · Validação",
@@ -225,7 +209,7 @@
 	},
 	{
 		"id": "97b90db1-233b-4c32-a872-3de0c268a5f8",
-		"position": 29,
+		"position": 27,
 		"filepath": "src/pages/slides/Slide20.tsx",
 		"title": "Decida o que aprender antes de adicionar funcionalidades",
 		"description": "Decida o que aprender antes de adicionar funcionalidades",
@@ -233,7 +217,7 @@
 	},
 	{
 		"id": "10beccdd-77b7-49ec-bd48-fa4babc7cf98",
-		"position": 30,
+		"position": 28,
 		"filepath": "src/pages/slides/Slide19.tsx",
 		"title": "Elogio não é evidência suficiente",
 		"description": "Elogio não é evidência suficiente",
@@ -241,7 +225,7 @@
 	},
 	{
 		"id": "bc3790cc-66fc-4d70-ba42-7a0e7e52b4a9",
-		"position": 31,
+		"position": 29,
 		"filepath": "src/pages/slides/LoginPayment.tsx",
 		"title": "Login e pagamento já vêm prontos no Replit",
 		"description": "Prompts para conectar Replit Auth e Stripe, e por que cadastros e pagamentos importam",
@@ -249,7 +233,7 @@
 	},
 	{
 		"id": "125b20dd-70b6-4551-9ead-feb2f901ef79",
-		"position": 32,
+		"position": 30,
 		"filepath": "src/pages/slides/EvidenceLadder.tsx",
 		"title": "Use login e pagamento para medir interesse",
 		"description": "Escada de evidência: visita, cadastro, uso e pagamento, com meta definida antes do teste",
@@ -257,15 +241,15 @@
 	},
 	{
 		"id": "d6282916-f0c3-40ee-a993-e9ed1fab6759",
-		"position": 33,
+		"position": 31,
 		"filepath": "src/pages/slides/Slide21.tsx",
-		"title": "Seu plano para os próximos sete dias",
+		"title": "Seu plano para os próximos dias",
 		"description": "Seu plano para os próximos sete dias",
 		"speakerNotes": ""
 	},
 	{
 		"id": "1363b860-391c-4c0a-8680-7d7b09152855",
-		"position": 34,
+		"position": 32,
 		"filepath": "src/pages/slides/Slide22.tsx",
 		"title": "Qual problema você vai investigar primeiro?",
 		"description": "Qual problema você vai investigar primeiro?",

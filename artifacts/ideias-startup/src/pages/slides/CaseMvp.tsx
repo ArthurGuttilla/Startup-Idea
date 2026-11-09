@@ -9,9 +9,8 @@ export default function CaseMvp() {
         <div className="card-ex"><span className="icon" style={{ WebkitMaskImage: `url(${base}images/icons/users.svg)`, maskImage: `url(${base}images/icons/users.svg)` }} /><p>Quem pede comida em casa em São Paulo</p></div>
         <div className="card-ex"><span className="icon" style={{ WebkitMaskImage: `url(${base}images/icons/target.svg)`, maskImage: `url(${base}images/icons/target.svg)` }} /><p>Descobrir quem entrega e como pedir</p></div>
         <div className="card-ex"><span className="icon" style={{ WebkitMaskImage: `url(${base}images/icons/route.svg)`, maskImage: `url(${base}images/icons/route.svg)` }} /><p>Ver cardápios, escolher e pedir por telefone</p></div>
-        <div className="card-ex"><span className="icon" style={{ WebkitMaskImage: `url(${base}images/icons/chart-line.svg)`, maskImage: `url(${base}images/icons/chart-line.svg)` }} /><p>Pedidos chegando aos restaurantes do guia</p></div>
+        <div className="card-ex"><span className="icon" style={{ WebkitMaskImage: `url(${base}images/icons/chart-line.svg)`, maskImage: `url(${base}images/icons/chart-line.svg)` }} /><p>Pedidos chegando aos restaurantes</p></div>
       </div>
-      <div className="case-ref"><span className="case-ref-head"><img className="ref-logo" src={`${base}images/logos/doordash.svg`} crossOrigin="anonymous" alt="DoorDash" /><span className="compare-label">Mesma lógica, em 2013</span></span><p>Uma página com cardápios em PDF, um telefone e os próprios fundadores entregando. O primeiro pedido chegou em poucas horas.</p></div>
     </div>
   );
 }

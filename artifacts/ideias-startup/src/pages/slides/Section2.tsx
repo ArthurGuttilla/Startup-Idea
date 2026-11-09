@@ -4,7 +4,7 @@ export default function Section2() {
       <span className="opener-number">2</span>
       <div className="opener-copy">
         <h1>Problema</h1>
-        <p>Escolher uma dor real e conversar com quem a sente</p>
+        <p>Escolher uma dor real e <br />conversar com quem a sente</p>
       </div>
     </div>
   );

@@ -1,7 +1,0 @@
-const base = import.meta.env.BASE_URL;
-export default function Slide18() { return (
-<div className="w-screen h-screen overflow-hidden relative deck-slide index-slide">
-<header><img src={`${base}brand/logo.svg`} crossOrigin="anonymous" alt="Replit" /><span className="section-label">4 · MVP com IA</span></header>
-<h1>Teste os casos que quebram a promessa</h1><div className="content index"><p className="with-icon"><span className="icon" style={{ WebkitMaskImage: `url(${base}images/icons/store.svg)`, maskImage: `url(${base}images/icons/store.svg)` }} /><span>Restaurante fechado: avisar antes do pedido</span></p><p className="with-icon"><span className="icon" style={{ WebkitMaskImage: `url(${base}images/icons/map-pin.svg)`, maskImage: `url(${base}images/icons/map-pin.svg)` }} /><span>Endereço fora da área: dizer que não entrega ali</span></p><p className="with-icon"><span className="icon" style={{ WebkitMaskImage: `url(${base}images/icons/triangle-alert.svg)`, maskImage: `url(${base}images/icons/triangle-alert.svg)` }} /><span>Falha ao enviar: avisar e permitir nova tentativa</span></p><p className="with-icon"><span className="icon" style={{ WebkitMaskImage: `url(${base}images/icons/pencil.svg)`, maskImage: `url(${base}images/icons/pencil.svg)` }} /><span>Pedido errado: mostrar resumo e permitir corrigir</span></p></div><div className="footnote">Demonstração e ajuste</div>
-</div>
-); }
