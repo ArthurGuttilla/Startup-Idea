@@ -7,6 +7,7 @@ export default function CaseMvp() {
     <div className="w-screen h-screen overflow-hidden relative deck-slide cards-slide slide-case-mvp">
       <header><img src={`${base}brand/logo.svg`} crossOrigin="anonymous" alt="Replit" /><FlowTrail current="MVP" /></header>
       <h1 className="title-with-logo">O MVP aplicado ao caso<img className="title-logo" src={`${base}images/logos/ifood.svg`} crossOrigin="anonymous" alt="iFood" /></h1>
+      <p className="case-mvp-sub">E se o Disk Cook começasse hoje, com IA?</p>
       <div className="content cards-ex">
         <div className="card-ex"><span className="icon" style={{ WebkitMaskImage: `url(${base}images/icons/users.svg)`, maskImage: `url(${base}images/icons/users.svg)` }} /><p>Quem pede comida em casa em São Paulo</p></div>
         <div className="card-ex"><span className="icon" style={{ WebkitMaskImage: `url(${base}images/icons/target.svg)`, maskImage: `url(${base}images/icons/target.svg)` }} /><p>Descobrir quem entrega e como pedir</p></div>

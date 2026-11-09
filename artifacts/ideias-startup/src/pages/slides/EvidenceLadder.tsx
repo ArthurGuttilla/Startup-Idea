@@ -3,8 +3,8 @@ const base = import.meta.env.BASE_URL;
 const rungs = [
   { name: 'Visita', text: 'Abriu a página e viu os cardápios' },
   { name: 'Cadastro', text: 'Criou conta para poder pedir' },
-  { name: 'Uso', text: 'Fez um pedido completo' },
-  { name: 'Pagamento', text: 'Pagou ou clicou em pagar' },
+  { name: 'Pedido pago', text: 'Escolheu, pagou e enviou o pedido' },
+  { name: 'Pediu de novo', text: 'Voltou sem você chamar' },
 ];
 
 export default function EvidenceLadder() {
@@ -21,7 +21,7 @@ export default function EvidenceLadder() {
           </div>
         ))}
       </div>
-      <div className="ladder-goal"><span className="compare-label">Defina a meta antes do teste</span><p>Ex: em 7 dias, 30 cadastros, 10 pedidos e 3 pagamentos</p></div>
+      <div className="ladder-goal"><span className="compare-label">Defina a meta antes do teste</span><p>Ex: em 7 dias, 50 visitas, 15 cadastros, 5 pedidos pagos e 2 que voltam</p></div>
     </div>
   );
 }
