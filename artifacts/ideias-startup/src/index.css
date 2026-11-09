@@ -183,3 +183,4 @@ html,body,#root{width:100%;height:100%;margin:0}body{background:var(--slide-bg);
 .lp-why .compare-label{color:var(--slide-muted)}
 .deck-slide .lp-why p{font-size:2.7vw;line-height:1.25;font-weight:500;max-width:70vw}
 .lp-grid{align-items:stretch}.lp-col{grid-template-rows:auto 1fr}
+.md-inline{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.85em;background:var(--slide-text);color:var(--slide-accent);padding:.1em .35em;white-space:nowrap}
