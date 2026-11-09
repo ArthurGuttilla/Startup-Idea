@@ -3,7 +3,7 @@ const base = import.meta.env.BASE_URL;
 export default function CustomerQuotes() {
   return (
     <div className="w-screen h-screen overflow-hidden relative deck-slide">
-      <header><img src={`${base}brand/logo.svg`} crossOrigin="anonymous" alt="Replit" /><span className="section-label">1 · Ideias</span></header>
+      <header><img src={`${base}brand/logo.svg`} crossOrigin="anonymous" alt="Replit" /><span className="section-label">2 · Problema</span></header>
       <h1>Olhe para a necessidade, não para o pedido</h1>
       <div className="quotes">
         <figure className="quote-card">

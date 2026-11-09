@@ -9,7 +9,7 @@ export default function PrdIntro() {
         <div className="compare-col"><span className="compare-label">PRD</span><p className="compare-main">O documento que descreve o produto: o problema, para quem, o que entra e o que fica de fora</p></div>
         <div className="compare-col"><span className="compare-label">Markdown</span><p className="compare-main">Texto simples com marcações leves, como <code className="md-inline"># título</code> e <code className="md-inline">- lista</code>, que pessoas e IA leem com facilidade</p></div>
       </div>
-      <div className="lp-why"><span className="compare-label">Juntos</span><p>Você escreve o plano, e a IA constrói a partir dele</p></div>
+      <div className="lp-why"><span className="compare-label">Juntos</span><p>Você pede o PRD, revisa o plano, e a IA constrói a partir dele</p></div>
     </div>
   );
 }

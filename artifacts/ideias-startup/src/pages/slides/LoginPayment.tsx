@@ -3,7 +3,7 @@ const base = import.meta.env.BASE_URL;
 export default function LoginPayment() {
   return (
     <div className="w-screen h-screen overflow-hidden relative deck-slide">
-      <header><img src={`${base}brand/logo.svg`} crossOrigin="anonymous" alt="Replit" /><span className="section-label">4 · MVP com IA</span></header>
+      <header><img src={`${base}brand/logo.svg`} crossOrigin="anonymous" alt="Replit" /><span className="section-label">5 · Validação</span></header>
       <h1>Login e pagamento já vêm prontos no Replit</h1>
       <div className="lp-grid">
         <div className="lp-col">
