@@ -145,3 +145,12 @@ html,body,#root{width:100%;height:100%;margin:0}body{background:var(--slide-bg);
 .cover-refs{display:grid;gap:1.4vh;padding-top:1vh;padding-left:2vw;border-left:.3vw solid var(--slide-primary)}
 .cover-refs .compare-label{color:var(--slide-muted);margin-bottom:.6vh}
 .deck-slide .cover-refs p{font-size:1.9vw;line-height:1.3}
+.eff-principles{display:grid;grid-template-columns:repeat(4,1fr);gap:1.6vw;margin-top:5vh}
+.eff-principles > div{background:var(--slide-primary);color:var(--slide-bg);padding:3vh 1.6vw;display:grid;align-content:start;gap:1.6vh;min-height:26vh}
+.eff-name{font-size:2.5vw;line-height:1.1;font-weight:600}
+.deck-slide .eff-principles p{font-size:1.9vw;line-height:1.3}
+.eff-means{margin-top:4vh;display:grid;gap:1.6vh}
+.eff-means .compare-label{color:var(--slide-muted)}
+.eff-means-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:3vw}
+.deck-slide .eff-means-grid p{font-size:1.9vw;line-height:1.3;padding-top:1.6vh;border-top:.15vw solid var(--slide-primary)}
+.eff-name{min-height:2.2em}
