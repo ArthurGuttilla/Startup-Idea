@@ -222,3 +222,13 @@ html,body,#root{width:100%;height:100%;margin:0}body{background:var(--slide-bg);
 .big-q{margin-top:auto;margin-bottom:auto;padding-bottom:4vh;display:grid;grid-template-columns:1fr 1fr;gap:2.4vw}
 .deck-slide .big-q p{display:flex;flex-direction:column;align-items:flex-start;gap:4vh;background:var(--slide-accent);padding:5vh 3vw;min-height:40vh;font-size:3.4vw;line-height:1.15;font-weight:500;letter-spacing:-.01em}
 .big-q .q-mark{width:6vw;height:6vw;font-size:3.6vw}
+.slide-eff{display:flex;flex-direction:column}
+.slide-eff .eff-principles,.slide-eff .eff-self{margin-top:auto;margin-bottom:auto;padding-bottom:4vh}
+.slide-eff .eff-principles > div{min-height:44vh;padding:4vh 2vw;gap:3vh}
+.slide-eff .eff-name{font-size:3vw}
+.deck-slide.slide-eff .eff-principles p{font-size:2.3vw}
+.eff-self{display:grid;grid-template-columns:repeat(3,1fr);gap:2vw}
+.eff-self > div{background:var(--slide-accent);padding:5vh 2.4vw;min-height:40vh;display:grid;align-content:start;gap:3vh}
+.eff-q{font-size:4vw;line-height:1.05;font-weight:600;color:var(--slide-primary)}
+.deck-slide .eff-self p{font-size:2.4vw;line-height:1.25}
+.eff-q{font-size:3.1vw;white-space:nowrap}
