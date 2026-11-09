@@ -40,16 +40,8 @@
 		"speakerNotes": ""
 	},
 	{
-		"id": "c431e812-15ec-4830-8f65-5575641072dd",
-		"position": 6,
-		"filepath": "src/pages/slides/Slide4.tsx",
-		"title": "Três características das melhores ideias",
-		"description": "Três características das melhores ideias",
-		"speakerNotes": ""
-	},
-	{
 		"id": "aa41d4a7-be0d-4a20-ab9a-e5dcf7646f28",
-		"position": 7,
+		"position": 6,
 		"filepath": "src/pages/slides/Slide6.tsx",
 		"title": "Viva no futuro. Perceba o que falta.",
 		"description": "Viva no futuro. Perceba o que falta.",
@@ -57,7 +49,7 @@
 	},
 	{
 		"id": "a9d12dfe-b53e-4b0d-ad07-c2a4fb575f93",
-		"position": 8,
+		"position": 7,
 		"filepath": "src/pages/slides/CustomerQuotes.tsx",
 		"title": "Olhe para a necessidade, não para o pedido",
 		"description": "Jeff Bezos sobre o que os clientes sempre vão querer e a frase atribuída a Henry Ford sobre cavalos mais rápidos",
@@ -65,7 +57,7 @@
 	},
 	{
 		"id": "a0a623f8-6020-48aa-893d-19119aded15d",
-		"position": 9,
+		"position": 8,
 		"filepath": "src/pages/slides/EffectuationMeans.tsx",
 		"title": "Effectuation: comece com o que você tem",
 		"description": "Effectuation: comece com o que você tem",
@@ -73,7 +65,7 @@
 	},
 	{
 		"id": "0339f45b-1ecb-4658-9aa2-85c37e50609a",
-		"position": 10,
+		"position": 9,
 		"filepath": "src/pages/slides/Section2.tsx",
 		"title": "2 · Problema",
 		"description": "Abertura do bloco 2 · Problema",
@@ -81,7 +73,7 @@
 	},
 	{
 		"id": "f01f7917-94cc-49b5-9c3e-4898308b764c",
-		"position": 11,
+		"position": 10,
 		"filepath": "src/pages/slides/Slide9.tsx",
 		"title": "Exercício: registre três problemas reais",
 		"description": "Exercício: registre três problemas reais",
@@ -89,7 +81,7 @@
 	},
 	{
 		"id": "6d3dcef1-2c4d-4db7-8b24-4c4a5d47fffe",
-		"position": 12,
+		"position": 11,
 		"filepath": "src/pages/slides/Slide10.tsx",
 		"title": "Escolha uma dor que você consegue investigar",
 		"description": "Escolha uma dor que você consegue investigar",
@@ -97,7 +89,7 @@
 	},
 	{
 		"id": "19cfe6c1-2d65-42dd-a8c3-75aecd8d2cc9",
-		"position": 13,
+		"position": 12,
 		"filepath": "src/pages/slides/Slide11.tsx",
 		"title": "Troque a ideia vaga por uma situação concreta",
 		"description": "Troque a ideia vaga por uma situação concreta",
@@ -105,7 +97,7 @@
 	},
 	{
 		"id": "ceea2192-edc0-472a-8dcb-eedbefd99605",
-		"position": 14,
+		"position": 13,
 		"filepath": "src/pages/slides/UserInterviews.tsx",
 		"title": "Converse sobre o passado, não sobre a ideia",
 		"description": "Como conduzir conversas de problema, com base em The Mom Test",
@@ -113,7 +105,7 @@
 	},
 	{
 		"id": "ee3e9dc5-ac4d-4e98-861f-933234535844",
-		"position": 15,
+		"position": 14,
 		"filepath": "src/pages/slides/Section3.tsx",
 		"title": "3 · Hipótese",
 		"description": "Abertura do bloco 3 · Hipótese",
@@ -121,7 +113,7 @@
 	},
 	{
 		"id": "bb886d6a-7d78-4373-b41b-01041bdec544",
-		"position": 16,
+		"position": 15,
 		"filepath": "src/pages/slides/Slide12.tsx",
 		"title": "Antes do MVP, escreva a hipótese",
 		"description": "Antes do MVP, escreva a hipótese",
@@ -129,7 +121,7 @@
 	},
 	{
 		"id": "9426d402-660e-4e6b-a30c-2e0c6246082b",
-		"position": 17,
+		"position": 16,
 		"filepath": "src/pages/slides/CaseHypothesis.tsx",
 		"title": "A hipótese aplicada ao caso iFood",
 		"description": "Modelo de hipótese preenchido com o Disk Cook, origem do iFood, em leitura didática",
@@ -137,7 +129,7 @@
 	},
 	{
 		"id": "8210c2e3-2610-408d-a930-7f53c86282c5",
-		"position": 18,
+		"position": 17,
 		"filepath": "src/pages/slides/Section4.tsx",
 		"title": "4 · MVP com IA",
 		"description": "Abertura do bloco 4 · MVP com IA",
@@ -145,7 +137,7 @@
 	},
 	{
 		"id": "af1ee30d-4c18-4828-9e66-e30f51263beb",
-		"position": 19,
+		"position": 18,
 		"filepath": "src/pages/slides/Slide13.tsx",
 		"title": "MVP é um teste, não uma lista de funcionalidades",
 		"description": "MVP é um teste, não uma lista de funcionalidades",
@@ -153,7 +145,7 @@
 	},
 	{
 		"id": "2b7a1a84-2bc1-4fcd-9fb3-def4cb0f37dc",
-		"position": 20,
+		"position": 19,
 		"filepath": "src/pages/slides/CaseMvp.tsx",
 		"title": "O MVP aplicado ao caso iFood",
 		"description": "Os quatro requisitos do MVP preenchidos com o caso iFood, com o DoorDash como referência",
@@ -161,7 +153,7 @@
 	},
 	{
 		"id": "6bca673f-4e61-4539-8435-1621bf4f4adf",
-		"position": 21,
+		"position": 20,
 		"filepath": "src/pages/slides/Slide14.tsx",
 		"title": "Construir com IA não exige vender IA",
 		"description": "Construir com IA não exige vender IA",
@@ -169,7 +161,7 @@
 	},
 	{
 		"id": "9f1ecded-2efb-4a40-9d0c-ebb8f5f72d34",
-		"position": 22,
+		"position": 21,
 		"filepath": "src/pages/slides/Slide15.tsx",
 		"title": "O recorte da demonstração",
 		"description": "Recorte da demonstração: guia digital de cardápios do bairro, no caso iFood",
@@ -177,7 +169,7 @@
 	},
 	{
 		"id": "a445596e-fa77-4c25-a1c1-2c6bd4b03eb2",
-		"position": 23,
+		"position": 22,
 		"filepath": "src/pages/slides/OrderMockup.tsx",
 		"title": "O que vamos construir",
 		"description": "Mockup ilustrativo da página de pedidos que a turma vai construir na demonstração",
@@ -185,7 +177,7 @@
 	},
 	{
 		"id": "51763348-f1fb-4ec3-9b1e-b071f70395f9",
-		"position": 24,
+		"position": 23,
 		"filepath": "src/pages/slides/Slide16.tsx",
 		"title": "Dê contexto à IA, não apenas uma ordem",
 		"description": "Dê contexto à IA, não apenas uma ordem",
@@ -193,7 +185,7 @@
 	},
 	{
 		"id": "3b955764-45a6-46e3-8c6f-5aa7afbb881f",
-		"position": 25,
+		"position": 24,
 		"filepath": "src/pages/slides/MarkdownPrd.tsx",
 		"title": "Peça um PRD em Markdown",
 		"description": "Exemplo de PRD em Markdown do caso iFood, com ordem de prioridade, escopo e aparência",
@@ -201,7 +193,7 @@
 	},
 	{
 		"id": "7a2939c3-8902-4015-b9ac-41c7340e7916",
-		"position": 26,
+		"position": 25,
 		"filepath": "src/pages/slides/Slide17.tsx",
 		"title": "Construa o menor fluxo completo",
 		"description": "Construa o menor fluxo completo",
@@ -209,7 +201,7 @@
 	},
 	{
 		"id": "f3945b14-988a-4cc7-bd9d-2250969b6fed",
-		"position": 27,
+		"position": 26,
 		"filepath": "src/pages/slides/Slide18.tsx",
 		"title": "Teste os casos que quebram a promessa",
 		"description": "Teste os casos que quebram a promessa",
@@ -217,7 +209,7 @@
 	},
 	{
 		"id": "bc3790cc-66fc-4d70-ba42-7a0e7e52b4a9",
-		"position": 28,
+		"position": 27,
 		"filepath": "src/pages/slides/LoginPayment.tsx",
 		"title": "Login e pagamento: não construa do zero",
 		"description": "Use serviço pronto para login e cobre em modo de teste ou pré-venda",
@@ -225,7 +217,7 @@
 	},
 	{
 		"id": "dcf56094-5f4c-4ab0-a339-3d3832875a4e",
-		"position": 29,
+		"position": 28,
 		"filepath": "src/pages/slides/Section5.tsx",
 		"title": "5 · Validação",
 		"description": "Abertura do bloco 5 · Validação",
@@ -233,7 +225,7 @@
 	},
 	{
 		"id": "10beccdd-77b7-49ec-bd48-fa4babc7cf98",
-		"position": 30,
+		"position": 29,
 		"filepath": "src/pages/slides/Slide19.tsx",
 		"title": "Elogio não é evidência suficiente",
 		"description": "Elogio não é evidência suficiente",
@@ -241,7 +233,7 @@
 	},
 	{
 		"id": "97b90db1-233b-4c32-a872-3de0c268a5f8",
-		"position": 31,
+		"position": 30,
 		"filepath": "src/pages/slides/Slide20.tsx",
 		"title": "Decida o que aprender antes de adicionar funcionalidades",
 		"description": "Decida o que aprender antes de adicionar funcionalidades",
@@ -249,7 +241,7 @@
 	},
 	{
 		"id": "d6282916-f0c3-40ee-a993-e9ed1fab6759",
-		"position": 32,
+		"position": 31,
 		"filepath": "src/pages/slides/Slide21.tsx",
 		"title": "Seu plano para os próximos sete dias",
 		"description": "Seu plano para os próximos sete dias",
@@ -257,7 +249,7 @@
 	},
 	{
 		"id": "1363b860-391c-4c0a-8680-7d7b09152855",
-		"position": 33,
+		"position": 32,
 		"filepath": "src/pages/slides/Slide22.tsx",
 		"title": "Qual problema você vai investigar primeiro?",
 		"description": "Qual problema você vai investigar primeiro?",
