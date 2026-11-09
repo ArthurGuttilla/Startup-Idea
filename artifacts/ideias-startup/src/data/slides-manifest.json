@@ -211,8 +211,8 @@
 		"id": "bc3790cc-66fc-4d70-ba42-7a0e7e52b4a9",
 		"position": 27,
 		"filepath": "src/pages/slides/LoginPayment.tsx",
-		"title": "Login e pagamento: não construa do zero",
-		"description": "Use serviço pronto para login e cobre em modo de teste ou pré-venda",
+		"title": "Login e pagamento no Replit: peça ao Agent",
+		"description": "Como o Replit Auth e a integração com o Stripe funcionam no Replit",
 		"speakerNotes": ""
 	},
 	{
@@ -232,8 +232,16 @@
 		"speakerNotes": ""
 	},
 	{
-		"id": "97b90db1-233b-4c32-a872-3de0c268a5f8",
+		"id": "125b20dd-70b6-4551-9ead-feb2f901ef79",
 		"position": 30,
+		"filepath": "src/pages/slides/EvidenceLadder.tsx",
+		"title": "Use login e pagamento para medir interesse",
+		"description": "Escada de evidência: visita, cadastro, uso e pagamento, com meta definida antes do teste",
+		"speakerNotes": ""
+	},
+	{
+		"id": "97b90db1-233b-4c32-a872-3de0c268a5f8",
+		"position": 31,
 		"filepath": "src/pages/slides/Slide20.tsx",
 		"title": "Decida o que aprender antes de adicionar funcionalidades",
 		"description": "Decida o que aprender antes de adicionar funcionalidades",
@@ -241,7 +249,7 @@
 	},
 	{
 		"id": "d6282916-f0c3-40ee-a993-e9ed1fab6759",
-		"position": 31,
+		"position": 32,
 		"filepath": "src/pages/slides/Slide21.tsx",
 		"title": "Seu plano para os próximos sete dias",
 		"description": "Seu plano para os próximos sete dias",
@@ -249,7 +257,7 @@
 	},
 	{
 		"id": "1363b860-391c-4c0a-8680-7d7b09152855",
-		"position": 32,
+		"position": 33,
 		"filepath": "src/pages/slides/Slide22.tsx",
 		"title": "Qual problema você vai investigar primeiro?",
 		"description": "Qual problema você vai investigar primeiro?",
