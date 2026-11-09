@@ -232,3 +232,6 @@ html,body,#root{width:100%;height:100%;margin:0}body{background:var(--slide-bg);
 .eff-q{font-size:4vw;line-height:1.05;font-weight:600;color:var(--slide-primary)}
 .deck-slide .eff-self p{font-size:2.4vw;line-height:1.25}
 .eff-q{font-size:3.1vw;white-space:nowrap}
+/* Slides 20 and 21: same card position regardless of title length */
+.slide-case-mvp .cards-ex{position:absolute;top:36vh;bottom:11vh;left:6vw;right:6vw;margin:0;grid-template-columns:repeat(4,1fr);gap:1.8vw}
+.slide-case-mvp .card-ex{min-height:0;height:100%;box-sizing:border-box;justify-content:space-between;padding:3.2vw 2vw}
