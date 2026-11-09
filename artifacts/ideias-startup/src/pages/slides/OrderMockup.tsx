@@ -33,11 +33,11 @@ export default function OrderMockup() {
             <div className="mock-line mock-total"><span>Total</span><span>R$ 60,00</span></div>
             <span className="mock-field">Nome</span>
             <span className="mock-field">Endereço de entrega</span>
-            <span className="mock-btn is-primary"><span className="flow-badge is-light">3</span>Revisar e enviar pedido</span>
+            <span className="mock-btn is-primary"><span className="flow-badge is-light">3</span>Pagar e enviar pedido</span>
           </div>
         </div>
       </div>
-      <div className="flow-legend"><span><span className="flow-badge">1</span>Abra a lista</span><span><span className="flow-badge">2</span>Escolha os pratos</span><span><span className="flow-badge">3</span>Envie o pedido</span><span><span className="flow-badge">4</span>Peça em menos tempo do que por telefone</span></div>
+      <div className="flow-legend"><span><span className="flow-badge">1</span>Abra a lista</span><span><span className="flow-badge">2</span>Escolha os pratos</span><span><span className="flow-badge">3</span>Pague e envie</span><span><span className="flow-badge">4</span>Peça em menos tempo do que por telefone</span></div>
     </div>
   );
 }

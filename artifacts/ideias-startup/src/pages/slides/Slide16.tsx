@@ -5,8 +5,8 @@ const base = import.meta.env.BASE_URL;
 const prd: [string, string][] = [
   ['Para quem', 'Moradores do bairro que pedem comida em casa'],
   ['Problema', 'Não sabem quais restaurantes entregam nem como pedir'],
-  ['Precisa ter, nesta ordem', '1. Lista de restaurantes com cardápio · 2. Escolher pratos e ver o total · 3. Enviar o pedido com nome e endereço'],
-  ['Fora do escopo', 'Pagamento online e conectar entregadores'],
+  ['Precisa ter, nesta ordem', '1. Lista de restaurantes com cardápio · 2. Escolher pratos e ver o total · 3. Pagar com cartão, via Stripe, e enviar o pedido'],
+  ['Fora do escopo', 'Conectar entregadores'],
   ['Como saber se funcionou', 'A pessoa pede em menos tempo do que por telefone'],
 ];
 
