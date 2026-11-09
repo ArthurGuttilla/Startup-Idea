@@ -237,3 +237,8 @@ html,body,#root{width:100%;height:100%;margin:0}body{background:var(--slide-bg);
 .slide-case-mvp .card-ex{min-height:0;height:100%;box-sizing:border-box;justify-content:space-between;padding:3.2vw 2vw}
 .slide-eff .eff-principles .icon{color:var(--slide-bg);width:4.2vw;height:4.2vw}
 .slide-eff .eff-principles > div{gap:2.4vh}
+.slide-single-q .compare{grid-template-columns:1fr;max-width:72vw}
+.slide-single-q .compare-col{justify-content:center}
+.slide-single-q .compare{position:absolute;left:6vw;right:6vw;top:36vh;bottom:16vh;max-width:none;align-items:center}
+.slide-single-q .compare-col{height:100%;padding:5vh 4vw;border-top-width:.3vw}
+.deck-slide.slide-single-q .compare-main{font-size:3.8vw;line-height:1.15;font-weight:600}

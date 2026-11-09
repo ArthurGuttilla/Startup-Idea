@@ -56,19 +56,19 @@
 		"speakerNotes": ""
 	},
 	{
-		"id": "a0a623f8-6020-48aa-893d-19119aded15d",
-		"position": 8,
-		"filepath": "src/pages/slides/EffectuationMeans.tsx",
-		"title": "Effectuation: quatro princípios para avançar",
-		"description": "Os quatro princípios do Effectuation",
-		"speakerNotes": ""
-	},
-	{
 		"id": "783240e4-d584-4ce9-851b-5bfe7f1cd368",
-		"position": 9,
+		"position": 8,
 		"filepath": "src/pages/slides/EffectuationSelf.tsx",
 		"title": "Effectuation: comece com o que você tem",
 		"description": "Quem sou, o que sei e quem conheço",
+		"speakerNotes": ""
+	},
+	{
+		"id": "a0a623f8-6020-48aa-893d-19119aded15d",
+		"position": 9,
+		"filepath": "src/pages/slides/EffectuationMeans.tsx",
+		"title": "Effectuation: quatro princípios para avançar",
+		"description": "Os quatro princípios do Effectuation",
 		"speakerNotes": ""
 	},
 	{
@@ -115,7 +115,7 @@
 		"id": "ceea2192-edc0-472a-8dcb-eedbefd99605",
 		"position": 15,
 		"filepath": "src/pages/slides/UserInterviews.tsx",
-		"title": "Converse sobre o passado, não sobre a ideia",
+		"title": "Converse sobre o problema, não sobre a ideia",
 		"description": "Como conduzir conversas de problema, com base em The Mom Test",
 		"speakerNotes": ""
 	},
