@@ -13,15 +13,14 @@ export default function LoginPayment() {
         <div className="lp-card">
           <div className="lp-card-head"><Icon name="user-round-check" /><span className="compare-label">Login · Replit Auth</span></div>
           <p className="lp-prompt">“Adicione login com Replit Auth para salvar o endereço e o histórico de pedidos”</p>
-          <p className="lp-measure"><strong>Mede quem volta:</strong> pede de novo sem você chamar</p>
+          <p className="lp-measure"><strong>Mede quem entra e quem volta</strong></p>
         </div>
         <div className="lp-card">
           <div className="lp-card-head"><Icon name="credit-card" /><span className="compare-label">Pagamento · Stripe</span></div>
           <p className="lp-prompt">“Conecte o Stripe para cobrar uma taxa de entrega de R$ 5”</p>
-          <p className="lp-measure"><strong>Mede quem paga:</strong> o sinal mais forte de todos</p>
+          <p className="lp-measure"><strong>Mede quem paga</strong></p>
         </div>
       </div>
-      <div className="lp-why"><p>Teste o fluxo em modo de teste; meça interesse com pagamento real</p></div>
     </div>
   );
 }
