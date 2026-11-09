@@ -204,7 +204,7 @@
 		"position": 26,
 		"filepath": "src/pages/slides/Slide16.tsx",
 		"title": "Transforme o PRD em um prompt",
-		"description": "Prompt para a Replit montado a partir do PRD",
+		"description": "Prompt com instruções e o PRD colado no chat do Replit",
 		"speakerNotes": ""
 	},
 	{
@@ -224,24 +224,16 @@
 		"speakerNotes": ""
 	},
 	{
-		"id": "97b90db1-233b-4c32-a872-3de0c268a5f8",
-		"position": 29,
-		"filepath": "src/pages/slides/Slide20.tsx",
-		"title": "Decida o que aprender antes de adicionar funcionalidades",
-		"description": "Decida o que aprender antes de adicionar funcionalidades",
-		"speakerNotes": ""
-	},
-	{
 		"id": "10beccdd-77b7-49ec-bd48-fa4babc7cf98",
-		"position": 30,
+		"position": 29,
 		"filepath": "src/pages/slides/Slide19.tsx",
-		"title": "Elogio não é evidência suficiente",
-		"description": "Elogio não é evidência suficiente",
+		"title": "Elogio não é evidência",
+		"description": "O que a pessoa diz vs. o que a pessoa faz",
 		"speakerNotes": ""
 	},
 	{
 		"id": "bc3790cc-66fc-4d70-ba42-7a0e7e52b4a9",
-		"position": 31,
+		"position": 30,
 		"filepath": "src/pages/slides/LoginPayment.tsx",
 		"title": "Login e pagamento já vêm prontos no Replit",
 		"description": "Prompts para conectar Replit Auth e Stripe, e por que cadastros e pagamentos importam",
@@ -249,7 +241,7 @@
 	},
 	{
 		"id": "125b20dd-70b6-4551-9ead-feb2f901ef79",
-		"position": 32,
+		"position": 31,
 		"filepath": "src/pages/slides/EvidenceLadder.tsx",
 		"title": "Use login e pagamento para medir interesse",
 		"description": "Escada de evidência: visita, cadastro, uso e pagamento, com meta definida antes do teste",
@@ -257,7 +249,7 @@
 	},
 	{
 		"id": "d6282916-f0c3-40ee-a993-e9ed1fab6759",
-		"position": 33,
+		"position": 32,
 		"filepath": "src/pages/slides/Slide21.tsx",
 		"title": "Seu plano para os próximos dias",
 		"description": "Seu plano para os próximos sete dias",
@@ -265,7 +257,7 @@
 	},
 	{
 		"id": "1363b860-391c-4c0a-8680-7d7b09152855",
-		"position": 34,
+		"position": 33,
 		"filepath": "src/pages/slides/Slide22.tsx",
 		"title": "Qual problema você vai investigar primeiro?",
 		"description": "Qual problema você vai investigar primeiro?",

@@ -262,3 +262,16 @@ html,body,#root{width:100%;height:100%;margin:0}body{background:var(--slide-bg);
 .deck-slide .prd-sheet p{font-size:1.65vw;line-height:1.3}
 .deck-slide .prompt-prd p{font-size:1.85vw;line-height:1.45}
 .prompt-prd{margin-top:4vh;gap:1.8vh}
+/* Prompt com PRD colado */
+.prompt-chat{display:grid;grid-template-columns:1.15fr 1fr;gap:2vw;margin-top:4vh;align-items:stretch}
+.deck-slide .prompt-msg p{font-size:1.75vw;line-height:1.45}
+.prompt-msg{gap:1.8vh;padding:3.4vh 2.6vw}
+.prd-paste{background:#fff;border:.15vw solid #DBD4CF;box-shadow:0 1.2vh 3vh rgba(24,24,24,.10);padding:2.6vh 2vw;display:grid;gap:1.3vh;align-content:start}
+.prd-paste-tag{justify-self:start;font-size:1.1vw;line-height:1;text-transform:uppercase;letter-spacing:.1em;font-weight:700;color:var(--slide-muted);border:.12vw solid #DBD4CF;padding:.8vh .7vw}
+.deck-slide .prd-paste p{font-size:1.4vw;line-height:1.3}
+.prd-paste .prd-h{font-size:1vw;margin-bottom:.4vh}
+/* Elogio vs evidência */
+.slide-praise .compare-col{gap:2vh}
+.deck-slide.slide-praise .compare-col p{font-size:2.5vw;line-height:1.25}
+.slide-praise .compare-col:not(.is-accent) p{color:var(--slide-muted)}
+.slide-praise .lp-why{margin-top:5vh}
