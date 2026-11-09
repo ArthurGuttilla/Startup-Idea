@@ -310,3 +310,4 @@ html,body,#root{width:100%;height:100%;margin:0}body{background:var(--slide-bg);
 /* Ponte 1997 → hoje */
 .deck-slide .case-mvp-sub{margin-top:1.6vh;font-size:2.6vw;color:var(--slide-primary);font-weight:500}
 .slide-case-mvp .cards-ex{top:40vh}
+.deck-slide.cover-slide .cover-bottom .subtitle{font-size:3.35vw;line-height:1.06;letter-spacing:-.01em}
