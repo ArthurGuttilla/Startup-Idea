@@ -4,7 +4,7 @@ export default function BuildFlow() {
   return (
     <div className="w-screen h-screen overflow-hidden relative deck-slide steps-slide slide-plan slide-flow">
       <header><img src={`${base}brand/logo.svg`} crossOrigin="anonymous" alt="Replit" /><span className="section-label">4 · MVP com IA</span></header>
-      <h1>Do MVP ao link, em quatro passos</h1>
+      <h1>Do MVP ao app, em quatro passos</h1>
       <div className="content steps">
         <div className="step"><span className="step-number">1</span><span className="flow-name">MVP</span><p>Defina o menor teste possível</p></div>
         <div className="step"><span className="step-number">2</span><span className="flow-name">PRD</span><p>Estruture o pensamento, <br />em conjunto</p></div>

@@ -15,7 +15,7 @@ export default function LoginPayment() {
           <p className="lp-prompt">“Conecte o Stripe em modo de teste”</p>
         </div>
       </div>
-      <div className="lp-why"><span className="compare-label">Por que isso importa</span><p>Cada cadastro e cada pagamento mostram se alguém quer o produto de verdade</p></div>
+      <div className="lp-why"><p>Cada cadastro e cada pagamento mostram se alguém quer o produto de verdade</p></div>
     </div>
   );
 }

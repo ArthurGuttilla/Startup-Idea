@@ -152,24 +152,8 @@
 		"speakerNotes": ""
 	},
 	{
-		"id": "f6dd647e-93d6-48c5-aaed-ed778e86c5e3",
-		"position": 20,
-		"filepath": "src/pages/slides/AiShift.tsx",
-		"title": "Com IA, construir ficou rápido. Saber o que pedir, não.",
-		"description": "Por que estruturar o pensamento antes de conversar com o aplicativo",
-		"speakerNotes": ""
-	},
-	{
-		"id": "6cd81949-5cfc-42bd-915a-3648b1fb08fb",
-		"position": 21,
-		"filepath": "src/pages/slides/BuildFlow.tsx",
-		"title": "Do MVP ao link, em quatro passos",
-		"description": "Mapa da seção: MVP, PRD, prompt e entregável",
-		"speakerNotes": ""
-	},
-	{
 		"id": "af1ee30d-4c18-4828-9e66-e30f51263beb",
-		"position": 22,
+		"position": 20,
 		"filepath": "src/pages/slides/Slide13.tsx",
 		"title": "MVP é um teste, não uma lista de funcionalidades",
 		"description": "MVP é um teste, não uma lista de funcionalidades",
@@ -177,10 +161,26 @@
 	},
 	{
 		"id": "2b7a1a84-2bc1-4fcd-9fb3-def4cb0f37dc",
-		"position": 23,
+		"position": 21,
 		"filepath": "src/pages/slides/CaseMvp.tsx",
 		"title": "O MVP aplicado ao caso iFood",
 		"description": "Os quatro requisitos do MVP preenchidos com o caso iFood, com o DoorDash como referência",
+		"speakerNotes": ""
+	},
+	{
+		"id": "f6dd647e-93d6-48c5-aaed-ed778e86c5e3",
+		"position": 22,
+		"filepath": "src/pages/slides/AiShift.tsx",
+		"title": "Com IA, construir ficou rápido. Saber o que pedir, não.",
+		"description": "Por que estruturar o pensamento antes de conversar com o aplicativo",
+		"speakerNotes": ""
+	},
+	{
+		"id": "6cd81949-5cfc-42bd-915a-3648b1fb08fb",
+		"position": 23,
+		"filepath": "src/pages/slides/BuildFlow.tsx",
+		"title": "Do MVP ao app, em quatro passos",
+		"description": "Mapa da seção: MVP, PRD, prompt e entregável",
 		"speakerNotes": ""
 	},
 	{
