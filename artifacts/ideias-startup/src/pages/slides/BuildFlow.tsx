@@ -7,9 +7,9 @@ export default function BuildFlow() {
       <h1>Do MVP ao link, em quatro passos</h1>
       <div className="content steps">
         <div className="step"><span className="step-number">1</span><span className="flow-name">MVP</span><p>Defina o menor teste possível</p></div>
-        <div className="step"><span className="step-number">2</span><span className="flow-name">PRD</span><p>Estruture o pensamento, em conjunto</p></div>
-        <div className="step"><span className="step-number">3</span><span className="flow-name">Prompt</span><p>Transforme o PRD em instruções para a Replit</p></div>
-        <div className="step"><span className="step-number">4</span><span className="flow-name">Entregável</span><p>Um link que alguém consegue usar</p></div>
+        <div className="step"><span className="step-number">2</span><span className="flow-name">PRD</span><p>Estruture o pensamento, <br />em conjunto</p></div>
+        <div className="step"><span className="step-number">3</span><span className="flow-name">Prompt</span><p>Transforme o PRD em instruções para o Replit</p></div>
+        <div className="step"><span className="step-number">4</span><span className="flow-name">Publique</span><p>Um link que alguém consegue usar</p></div>
       </div>
     </div>
   );

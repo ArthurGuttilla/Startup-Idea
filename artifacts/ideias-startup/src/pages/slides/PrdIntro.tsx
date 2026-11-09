@@ -15,7 +15,7 @@ export default function PrdIntro() {
           <div key={p}><span className="prd-part-n">{i + 1}</span><p>{p}</p></div>
         ))}
       </div>
-      <div className="lp-why"><span className="compare-label">Por que importa</span><p>Ele organiza o seu pensamento e vira a base do prompt</p></div>
+      <div className="lp-why"><p>Ele organiza o seu pensamento e vira a base do prompt</p></div>
     </div>
   );
 }
