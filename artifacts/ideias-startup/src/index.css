@@ -142,3 +142,6 @@ html,body,#root{width:100%;height:100%;margin:0}body{background:var(--slide-bg);
 .case-ref{margin-top:3vh}
 .thanks-copy{margin-top:7vh}
 .thanks-cta{margin-top:1vh}
+.cover-refs{display:grid;gap:1.4vh;padding-top:1vh;padding-left:2vw;border-left:.3vw solid var(--slide-primary)}
+.cover-refs .compare-label{color:var(--slide-muted);margin-bottom:.6vh}
+.deck-slide .cover-refs p{font-size:1.9vw;line-height:1.3}
