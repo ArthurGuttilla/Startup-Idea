@@ -4,7 +4,7 @@ export default function Section4() {
       <span className="opener-number">4</span>
       <div className="opener-copy">
         <h1>MVP com IA</h1>
-        <p>Construir o menor teste possível, <br />com ajuda da IA</p>
+        <p>Pense antes de pedir: <br />do PRD ao prompt na Replit</p>
       </div>
     </div>
   );

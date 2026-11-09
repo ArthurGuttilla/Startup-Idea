@@ -1,3 +1,5 @@
+import { FlowTrail } from '@/widgets/FlowTrail';
+
 const base = import.meta.env.BASE_URL;
 
 const restaurants = [
@@ -9,8 +11,8 @@ const restaurants = [
 export default function OrderMockup() {
   return (
     <div className="w-screen h-screen overflow-hidden relative deck-slide">
-      <header><img src={`${base}brand/logo.svg`} crossOrigin="anonymous" alt="Replit" /><span className="section-label">4 · MVP com IA</span></header>
-      <h1>O menor fluxo que vamos construir</h1>
+      <header><img src={`${base}brand/logo.svg`} crossOrigin="anonymous" alt="Replit" /><FlowTrail current="Entregável" /></header>
+      <h1>Entregável: um link para testar</h1>
       <div className="browser">
         <div className="browser-bar"><span className="dot" /><span className="dot" /><span className="dot" /><span className="browser-url">pedidos-do-bairro.replit.app</span></div>
         <div className="mock-app">
@@ -35,7 +37,7 @@ export default function OrderMockup() {
           </div>
         </div>
       </div>
-      <div className="flow-legend"><span><span className="flow-badge">1</span>Abra a lista</span><span><span className="flow-badge">2</span>Escolha os pratos</span><span><span className="flow-badge">3</span>Envie o pedido</span><span><span className="flow-badge">4</span>Compare com achar um panfleto e ligar</span></div>
+      <div className="flow-legend"><span><span className="flow-badge">1</span>Abra a lista</span><span><span className="flow-badge">2</span>Escolha os pratos</span><span><span className="flow-badge">3</span>Envie o pedido</span><span><span className="flow-badge">4</span>Peça em menos tempo do que por telefone</span></div>
     </div>
   );
 }

@@ -148,12 +148,28 @@
 		"position": 19,
 		"filepath": "src/pages/slides/Section4.tsx",
 		"title": "4 · MVP com IA",
-		"description": "Abertura do bloco 4 · MVP com IA",
+		"description": "Pense antes de pedir: do PRD ao prompt na Replit",
+		"speakerNotes": ""
+	},
+	{
+		"id": "f6dd647e-93d6-48c5-aaed-ed778e86c5e3",
+		"position": 20,
+		"filepath": "src/pages/slides/AiShift.tsx",
+		"title": "Com IA, construir ficou rápido. Saber o que pedir, não.",
+		"description": "Por que estruturar o pensamento antes de conversar com o aplicativo",
+		"speakerNotes": ""
+	},
+	{
+		"id": "6cd81949-5cfc-42bd-915a-3648b1fb08fb",
+		"position": 21,
+		"filepath": "src/pages/slides/BuildFlow.tsx",
+		"title": "Do MVP ao link, em quatro passos",
+		"description": "Mapa da seção: MVP, PRD, prompt e entregável",
 		"speakerNotes": ""
 	},
 	{
 		"id": "af1ee30d-4c18-4828-9e66-e30f51263beb",
-		"position": 20,
+		"position": 22,
 		"filepath": "src/pages/slides/Slide13.tsx",
 		"title": "MVP é um teste, não uma lista de funcionalidades",
 		"description": "MVP é um teste, não uma lista de funcionalidades",
@@ -161,47 +177,47 @@
 	},
 	{
 		"id": "2b7a1a84-2bc1-4fcd-9fb3-def4cb0f37dc",
-		"position": 21,
+		"position": 23,
 		"filepath": "src/pages/slides/CaseMvp.tsx",
 		"title": "O MVP aplicado ao caso iFood",
 		"description": "Os quatro requisitos do MVP preenchidos com o caso iFood, com o DoorDash como referência",
 		"speakerNotes": ""
 	},
 	{
-		"id": "51763348-f1fb-4ec3-9b1e-b071f70395f9",
-		"position": 22,
-		"filepath": "src/pages/slides/Slide16.tsx",
-		"title": "Dê contexto à IA, não apenas uma ordem",
-		"description": "Dê contexto à IA, não apenas uma ordem",
-		"speakerNotes": ""
-	},
-	{
 		"id": "d1a90648-1b6c-419f-9b05-ddfa1ca5f4a5",
-		"position": 23,
+		"position": 24,
 		"filepath": "src/pages/slides/PrdIntro.tsx",
-		"title": "PRD e Markdown, em uma frase cada",
-		"description": "Introdução rápida ao que é um PRD e ao formato Markdown",
+		"title": "O que é um PRD",
+		"description": "O que é um PRD e as cinco partes que ele organiza",
 		"speakerNotes": ""
 	},
 	{
 		"id": "3b955764-45a6-46e3-8c6f-5aa7afbb881f",
-		"position": 24,
+		"position": 25,
 		"filepath": "src/pages/slides/MarkdownPrd.tsx",
-		"title": "Revise o PRD antes de construir",
-		"description": "Exemplo de PRD em Markdown do caso iFood, com ordem de prioridade, escopo e aparência",
+		"title": "Construindo o PRD do caso, juntos",
+		"description": "PRD do caso iFood construído com a turma",
+		"speakerNotes": ""
+	},
+	{
+		"id": "51763348-f1fb-4ec3-9b1e-b071f70395f9",
+		"position": 26,
+		"filepath": "src/pages/slides/Slide16.tsx",
+		"title": "Transforme o PRD em um prompt para a Replit",
+		"description": "Prompt para a Replit montado a partir do PRD",
 		"speakerNotes": ""
 	},
 	{
 		"id": "a445596e-fa77-4c25-a1c1-2c6bd4b03eb2",
-		"position": 25,
+		"position": 27,
 		"filepath": "src/pages/slides/OrderMockup.tsx",
-		"title": "O menor fluxo que vamos construir",
-		"description": "Mockup da página de pedidos com os passos do fluxo numerados",
+		"title": "Entregável: um link para testar",
+		"description": "Mockup do app que a Replit entrega a partir do prompt",
 		"speakerNotes": ""
 	},
 	{
 		"id": "dcf56094-5f4c-4ab0-a339-3d3832875a4e",
-		"position": 26,
+		"position": 28,
 		"filepath": "src/pages/slides/Section5.tsx",
 		"title": "5 · Validação",
 		"description": "Abertura do bloco 5 · Validação",
@@ -209,7 +225,7 @@
 	},
 	{
 		"id": "97b90db1-233b-4c32-a872-3de0c268a5f8",
-		"position": 27,
+		"position": 29,
 		"filepath": "src/pages/slides/Slide20.tsx",
 		"title": "Decida o que aprender antes de adicionar funcionalidades",
 		"description": "Decida o que aprender antes de adicionar funcionalidades",
@@ -217,7 +233,7 @@
 	},
 	{
 		"id": "10beccdd-77b7-49ec-bd48-fa4babc7cf98",
-		"position": 28,
+		"position": 30,
 		"filepath": "src/pages/slides/Slide19.tsx",
 		"title": "Elogio não é evidência suficiente",
 		"description": "Elogio não é evidência suficiente",
@@ -225,7 +241,7 @@
 	},
 	{
 		"id": "bc3790cc-66fc-4d70-ba42-7a0e7e52b4a9",
-		"position": 29,
+		"position": 31,
 		"filepath": "src/pages/slides/LoginPayment.tsx",
 		"title": "Login e pagamento já vêm prontos no Replit",
 		"description": "Prompts para conectar Replit Auth e Stripe, e por que cadastros e pagamentos importam",
@@ -233,7 +249,7 @@
 	},
 	{
 		"id": "125b20dd-70b6-4551-9ead-feb2f901ef79",
-		"position": 30,
+		"position": 32,
 		"filepath": "src/pages/slides/EvidenceLadder.tsx",
 		"title": "Use login e pagamento para medir interesse",
 		"description": "Escada de evidência: visita, cadastro, uso e pagamento, com meta definida antes do teste",
@@ -241,7 +257,7 @@
 	},
 	{
 		"id": "d6282916-f0c3-40ee-a993-e9ed1fab6759",
-		"position": 31,
+		"position": 33,
 		"filepath": "src/pages/slides/Slide21.tsx",
 		"title": "Seu plano para os próximos dias",
 		"description": "Seu plano para os próximos sete dias",
@@ -249,7 +265,7 @@
 	},
 	{
 		"id": "1363b860-391c-4c0a-8680-7d7b09152855",
-		"position": 32,
+		"position": 34,
 		"filepath": "src/pages/slides/Slide22.tsx",
 		"title": "Qual problema você vai investigar primeiro?",
 		"description": "Qual problema você vai investigar primeiro?",
