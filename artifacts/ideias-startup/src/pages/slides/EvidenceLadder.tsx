@@ -21,7 +21,7 @@ export default function EvidenceLadder() {
           </div>
         ))}
       </div>
-      <div className="ladder-goal"><span className="compare-label">Defina a meta antes do teste</span><p>Exemplo: em 7 dias, 30 cadastros, 10 pedidos e 3 pagamentos</p></div>
+      <div className="ladder-goal"><span className="compare-label">Defina a meta antes do teste</span><p>Ex: em 7 dias, 30 cadastros, 10 pedidos e 3 pagamentos</p></div>
     </div>
   );
 }

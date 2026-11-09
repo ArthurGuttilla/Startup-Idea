@@ -19,7 +19,7 @@ export default function Slide19() {
           <p>Volta para pedir de novo</p>
         </div>
       </div>
-      <div className="lp-why"><p>Design bom é quando a pessoa consegue fazer o que veio fazer</p></div>
+      <div className="lp-why"><p>Procure retorno espontâneo e compromisso concreto</p></div>
     </div>
   );
 }
